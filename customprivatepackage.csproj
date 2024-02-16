@@ -4,6 +4,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <PackageId>CustomPrivatePackage</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Matheus Ribeiro</Authors>
+    <PackageDescription>First private package</PackageDescription>
+    <RepositoryUrl>https://github.com/matheusarb/custom-private-package.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
